@@ -266,13 +266,14 @@ COURIER.HTML
 
 ## Output:
 
-![index](static/image/1.png)
-![school](static/image/8.png)
-![saloon](static/image/2.png)
-![gym](static/image/4.png)
-![church](static/image/5.png)
-![theatre](static/image/6.png)
-![courier](static/image/7.png)
+![1](https://github.com/Surya-ram/NearMe/assets/122000311/62c12bcf-9b47-4a71-bde1-f4945a31cb73)
+![8](https://github.com/Surya-ram/NearMe/assets/122000311/b3989b4d-6257-466a-88ff-8c6807a75514)
+![2](https://github.com/Surya-ram/NearMe/assets/122000311/8c962cc8-38fd-4f2b-b269-a49fe1544c11)
+![4](https://github.com/Surya-ram/NearMe/assets/122000311/f3530bf6-cbb3-4557-ac15-8d51189b62d0)
+![5](https://github.com/Surya-ram/NearMe/assets/122000311/c840c901-76e0-413d-b295-e7bcdc5c0fff)
+![6](https://github.com/Surya-ram/NearMe/assets/122000311/fc589876-e579-4b24-9b10-0c7b15949018)
+![7](https://github.com/Surya-ram/NearMe/assets/122000311/8dddf11b-8fb0-47e1-8df0-e75db1efd3ac)
+
 
 ## Result:
 THE PROGRAM FOR IMPLEMENTING IMAGEMAP IS EXECUTED SUCCESSFULLY
